@@ -11,4 +11,4 @@ Change working directory to the project's app directory and run the routes.py fi
 cd flask-api-tutorial/app
 python routes.py
 ```
-You can test the API calls with postman or any other similar tool as shown int the tutorial.
+You can test the API calls with postman or any other similar tool as shown in the tutorial.
